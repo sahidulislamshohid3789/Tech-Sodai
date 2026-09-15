@@ -1,0 +1,6 @@
+{
+  "name": "Tech Sodai Admin Panel",
+  "description": "Clean Admin Panel for Tech Sodai featuring product management with multiple images, dynamic 5-7 color options, size selection, and stock quantity, regular & discounted pricing, order dashboard, and instant email alert to sahidulislamshohid3789@gmail.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
